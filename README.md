@@ -4,7 +4,7 @@
 
 <hr>
 
-The script it's simple TCP Chat in local host. 
+The script it's simple TCP Chat in python and in local host. 
 
 <hr>
 
